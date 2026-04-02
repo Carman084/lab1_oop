@@ -1,0 +1,22 @@
+# ninja log v6
+13	325	7943277306828286	CMakeFiles/oop_lab1.dir/io.cpp.obj	354b170c1115d63e
+39	1049	7944301988069641	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+1154	1408	7944301999214704	oop_lab1.exe	5f0067ffa9fcb79c
+45	1153	7944301988129673	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+40	492	7944262928110369	CMakeFiles/oop_lab1.dir/printer.cpp.obj	c57243fa58f88814
+30	1281	7948731444120000	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+24	1286	7948731444072924	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+1287	1841	7948731456700020	oop_lab1.exe	5f0067ffa9fcb79c
+31	261	7948737570690485	CMakeFiles/oop_lab1.dir/printer.cpp.obj	c57243fa58f88814
+28	662	7948737570690485	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+33	666	7948737570690485	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+666	819	7948737577103818	oop_lab1.exe	5f0067ffa9fcb79c
+6	640	7948739101856125	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+3	661	7948739101856125	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+661	821	7948739108426719	oop_lab1.exe	5f0067ffa9fcb79c
+99	1383	7949343163561291	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+103	1389	7949343163664324	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+1389	2230	7949343176547687	oop_lab1.exe	5f0067ffa9fcb79c
+70	1357	7949353584904211	CMakeFiles/oop_lab1.dir/menu.cpp.obj	dfaedfba88a8f3b1
+62	1371	7949353584856849	CMakeFiles/oop_lab1.dir/main.cpp.obj	fb8fb40cdbe1b791
+1371	2039	7949353597936460	oop_lab1.exe	5f0067ffa9fcb79c
